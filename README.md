@@ -1,9 +1,8 @@
 :godmode:
 
+## Web/App developer
+Big fan of React
+Always learning
 
-
-<!--
-**chris-gibs/chris-gibs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-:video_game: :computer:
+## Interests
+:video_game: :weight_lifting: :rocket:
