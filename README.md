@@ -1,6 +1,6 @@
-:godmode:
 
-## Web/App developer
+
+## Web/App developer :godmode:
 Big fan of React
 Always learning
 
